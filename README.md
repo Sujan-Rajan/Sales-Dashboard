@@ -17,10 +17,9 @@ To analyze and visualize automotive sales performance across Botswana and South 
 - Clean, user-friendly dark theme
 
 ## 💡 Business Insights:
-- South Africa generated **67%+** of the total revenue
+- Botswana generated **67%+** of the total revenue
 - Most sold models: **3 Series**, **Qashqai**
 - High-performing brands: **Toyota**, **Volkswagen**
-- Sales hotspots in **South Africa** and **Mozambique**
 
 ![Dashboard Screenshot](./Sales_Dashboard.png)
 
