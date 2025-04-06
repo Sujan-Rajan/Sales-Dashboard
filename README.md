@@ -22,5 +22,5 @@ To analyze and visualize automotive sales performance across Botswana and South 
 - High-performing brands: **Toyota**, **Volkswagen**
 - Sales hotspots in **South Africa** and **Mozambique**
 
-![Dashboard Screenshot](./sales_dashboard.png)
+![Dashboard Screenshot](C:\Users\sujan\Downloads\Sales Dashboard)
 
