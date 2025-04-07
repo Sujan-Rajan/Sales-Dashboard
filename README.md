@@ -1,4 +1,4 @@
-# 🚗 Sales Performance Dashboard – Automotive Industry
+# 🚗 Power BI - Sales Performance Dashboard – Automotive Industry
 
 ## 📊 Tools Used:
 Power BI | DAX | Data Modeling
